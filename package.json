@@ -1,18 +1,13 @@
 {
-  "name": "@bensar/eslint-config",
+  "name": "bensar-eslint-config",
   "version": "1.0.0",
   "description": "shareable eslint config",
   "main": "index.js",
+  "private": false,
   "repository": "https://github.com/sarangkartikey50/eslint-config",
   "author": "sarang kartikey <sarangkartikey50@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">=3"
-  },
-  "devDependencies": {
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-prettier": "^3.4.0",
-    "prettier": "^2.2.1"
   }
 }
